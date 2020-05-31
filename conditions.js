@@ -11,3 +11,10 @@ else if (n<0) {
 else {
     console.log("You entered zero.");
 }
+
+if (n % 2 == 0) {
+    console.log("You entered an Even number.");
+}
+else {
+    console.log("You entered an Odd number.");
+}
